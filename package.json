@@ -1,0 +1,24 @@
+{
+  "name": "number-round",
+  "version": "1.0.0",
+  "description": "Number round",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/number-round.git"
+  },
+  "keywords": [
+    "number",
+    "round"
+  ],
+  "author": {
+    "name": "Liang",
+    "email": "liang@maichong.it",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maichong/number-round/issues"
+  },
+  "homepage": "https://github.com/maichong/number-round#readme"
+}
