@@ -6,6 +6,7 @@
  */
 
 module.exports = function round(val, precision) {
-	val = parseFloat(val) || 0;
-	return parseFloat(val.toFixed(precision));
+  val = parseFloat(val) || 0;
+  return parseFloat(val.toFixed(precision));
 };
+module.exports.default = module.exports;
